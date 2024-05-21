@@ -1,13 +1,15 @@
 ### WhatsApp MD User Bot
 
-A simple WhatsApp User bot.
+A Very dangerous WhatsApp Bug 🐛 bot. 
 
-## Setup
+## Setup Heroku deploy
 
-1. Deploy on Heroku
-   - Click [SCAN](https://qr-hazel-alpha.vercel.app/md) and scan the QR code through the "WhatsApp Linked Devices" option in your WhatsApp app.
-   - You will get a session ID in WhatsApp, copy the ID only.
-   - If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).
-   - If you don't have a GitHub account, [sign up](https://github.com/join) now.
-   - [FORK](https://github.com/lyfe00011/whatsapp-bot-md/fork) this repository.
+1. open desktop mode & `Star` this repository
+
+
+2.  - [FORK](https://github.com/techgod143/TECH-GOD-BUG-BOT/fork) this repository.
+    -    - If you don't have a GitHub account, [sign up](https://github.com/join) now.
+
+   - Click [SCAN](https://replit.com/@DGXeon/Xeon-PairCode?v=1)) and pair the code through the "WhatsApp Linked Devices" option in your WhatsApp app.  - You will get a creds json docoment in WhatsApp, upload him in session folder 📂
+   -    - If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).
    - Now [DEPLOY](https://qr-hazel-alpha.vercel.app/heroku).
