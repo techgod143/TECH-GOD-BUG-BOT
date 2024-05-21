@@ -1,0 +1,51 @@
+{
+    "name": "XBug-Bot",
+    "version": "5.0.0",
+    "description": "WhatsApp War Bot Using Nodejs",
+    "main": "main.js",
+    "type": "commonjs",
+    "directories": {
+        "lib": "lib",
+        "database": "database",
+        "database": "database",
+        "session": "session",
+        "media": "media"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "DGXeon",
+    "license": "MIT",
+    "dependencies": {
+        "@whiskeysockets/baileys": "^6.5.0",
+        "@adiwajshing/keyed-db": "^0.2.4",
+        "@hapi/boom": "^10.0.1",
+        "awesome-phonenumber": "^5.9.0",
+        "axios": "^1.4.0",
+        "chalk": "^4.1.2",
+        "cheerio": "^1.0.0-rc.12",
+        "cookie": "^0.5.0",
+        "file-type": "^16.5.3",
+        "fluent-ffmpeg": "^2.1.2",
+        "form-data": "^4.0.0",
+        "fs-extra": "^11.1.1",
+        "human-readable": "^0.2.1",
+        "jimp": "^0.16.13",
+        "jsdom": "^22.1.0",
+        "moment-timezone": "^0.5.43",
+        "node-fetch": "^2.6.11",
+        "node-id3": "^0.2.3",
+        "node-webpmux": "^3.1.7",
+        "node-youtube-music": "^0.8.3",
+        "performance-now": "^2.1.0",
+        "pino": "^8.14.1",
+        "qrcode": "^1.5.3",
+        "qrcode-reader": "^1.0.4",
+        "qrcode-terminal": "^0.12.0",
+        "set-cookie": "^0.0.4",
+        "translate-google-api": "^1.0.4",
+        "youtube-yts": "^2.0.0",
+        "ytdl-core": "^4.11.5",
+        "youtubedl-core": "^4.11.5"
+    }
+}
