@@ -4,8 +4,8 @@ A Very dangerous WhatsApp Bug 🐛 bot.
 
 ## Heroku deploy setup
 
-1. ⚠  `Star` this repository
 
+1.🎭 `Star` 🌟 this repository
 
 2.  - [FORK](https://github.com/techgod143/TECH-GOD-BUG-BOT/fork) this repository.
     -    - If you don't have a GitHub account, [sign up](https://github.com/join) now.
