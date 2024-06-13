@@ -2730,5 +2730,5 @@ if (e.includes("Connection Closed")) return
 if (e.includes("Timed Out")) return
 if (e.includes("Value not found")) return
 console.log('Caught exception: ', err)
-}), err)
+})
 })
