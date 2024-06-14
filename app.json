@@ -5,11 +5,7 @@
     "logo": "https://telegra.ph/file/6d089315a6aa02b55b408.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bug bot", "whatsapp automation", "multi device"],
 
-  "addons": [
-    {
-      "plan": "heroku-postgresql:basic"
-    }
-  ],
+
 
     "buildpacks": [
       {
