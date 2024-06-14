@@ -5,7 +5,11 @@
     "logo": "https://telegra.ph/file/6d089315a6aa02b55b408.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bug bot", "whatsapp automation", "multi device"],
 
-
+  "env": {
+    "ownernomer": {
+      "description": "put here your number",
+      "required": false,
+      "value": "917466008456"
 
   "addons": [
     {
