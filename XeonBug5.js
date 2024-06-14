@@ -1014,9 +1014,10 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                 break
             case 'sc':
             case 'script':
-            case 'scriptbot':
+            case 'repo':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `Search on youtube Tech God`,
+                    text: `repo https://github.com/techgod143/TECH-GOD-BUG-BOT
+		    youtube www.youtube.com/@techgod143`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
@@ -1036,7 +1037,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'donasi':
                 let textnate = `Hello Brother ${pushname}\n\nNo matter how much you donate is very valuable for us`
                 XeonBotInc.sendMessage(m.chat, {
-                    text: 'Upi: number-8445800605\n\n' + textnate
+                    text: 'Upi: number 9012008456\n\n' + textnate
                 }, {
                     quoted: m
                 })
@@ -2519,7 +2520,6 @@ docubug
 delaybug
 amountbug
 pmbug
-delaybug
 trollybug
 
 ╰┈➤ ᴏᴡɴᴇʀ ᴍᴇɴᴜ
