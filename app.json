@@ -5,7 +5,18 @@
     "logo": "https://telegra.ph/file/6d089315a6aa02b55b408.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bug bot", "whatsapp automation", "multi device"],
 
-
+"env": {
+    "PACK_NAME": {
+      "description": "Put Sticker Pack_Name.",
+      "value": "Suhail Md",
+      "required": false 
+    },
+    "PACK_AUTHER": {
+      "description": "Put Sticker Author_Name.",
+      "value": "",
+      "required": false 
+    }
+  }, 
 
     "buildpacks": [
       {
