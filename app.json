@@ -4,18 +4,6 @@
     "repository": "https://github.com/techgod143/TECH-GOD-BUG-BOT",
     "logo": "https://telegra.ph/file/6d089315a6aa02b55b408.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bug bot", "whatsapp automation", "multi device"],
-{
-  "env": {
-    "SECRET_TOKEN": {
-      "description": "A secret key for verifying the integrity of signed cookies.",
-      "generator": "secret"
-    },
-    "WEB_CONCURRENCY": {
-      "description": "The number of processes to run.",
-      "value": "5"
-    }
-  }
-}
 
   "addons": [
     {
