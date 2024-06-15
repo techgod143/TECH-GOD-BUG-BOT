@@ -2471,14 +2471,13 @@ break
             case 'menu':
             case 'help':
             case 'alive':
-                let xeonmenuoh = `╰┈➤ ${xeonytimewisher} 😄  My bro
-⚠️⚠️ ~Don't forget to subscribe~ *Tech god* ~Youtube Channel~ ⚠️⚠️
-_Any help: yt link http://www.youtube.com/@techgod143_
-
-╭══ *❍ 𝗧𝗘𝗖𝗛𝗚𝗢𝗗 𝗕𝗨𝗚 𝗩𝟱 ❍*
-┃❁ *ᴏᴡɴᴇʀ:* ᴛᴇᴄʜ○■□●ɢᴏᴅ
+                let xeonmenuoh = `╭══ *❍ 𝗧𝗘𝗖𝗛_𝗚𝗢𝗗-BUG_BOT ❍*
+┃❁ *ᴏᴡɴᴇʀ:* ᴛᴇᴄʜ ○■□● ɢᴏᴅ
 ┃❁ *ᴜᴘᴛɪᴍᴇ:* ${runtime(process.uptime())}
 ┃❁ *User: ${pushname}
+╰┈➤ ${xeonytimewisher} 😄  My bro
+⚠️⚠️ ~Don't forget to subscribe~ *Tech god* ~Youtube Channel~ ⚠️⚠️
+_Any help: yt link http://www.youtube.com/@techgod143_
 ╰═════════════════⊷
 ╭═══❂ 𝗕𝗨𝗚 𝗠𝗘𝗡𝗨 ❂
 ┃ ❏ *xʀᴇᴀᴄᴛ <ʀᴇᴘʟʏ ᴄʜᴀᴛ>*
