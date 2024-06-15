@@ -2473,7 +2473,6 @@ break
             case 'alive':
                 let xeonmenuoh = `Hello ${pushname}
 ╰┈➤ ${xeonytimewisher} 😄
-Bot Name: Tech-God-Bug-Bot
 
 
 ⚠️⚠️ ~Don't forget to subscribe~ *Tech god* ~Youtube Channel~ ⚠️⚠️
@@ -2481,142 +2480,149 @@ Bot Name: Tech-God-Bug-Bot
 
 Any help: yt link http://www.youtube.com/@techgod143
 
-╰┈➤ʙᴜɢ ᴍᴇɴᴜ
-xreact <reply chat>
-x <number|amount>
-x2 <amount>
-iosbug <number|amount>
-iosbug2 <amount>
-xaudio <number|amount>
-xaudio2 <amount>
-xsticker <number|amount>
-xsticker2 <amount>
-xloc <number|amount>
-xloc2 <amount>
-xlist <number|amount>
-xlist2 <amount>
-xkill <number|amount>
-xkill2 <amount>
-xkillgc <link group>
-tempban <code|number>
-xcrash <number>
-xcrash2 <amount>
-xioscrash <number>
-xioscrash2 <amount>
-iosgoogle <number>
-iosgoogle2 <amount>
-iosq <number>
-docugcbug
-trollygcbug
-unlimitedgcbug
-bomgcbug
-laggcbug
-gcbug
-delaygcbug
-lagbug
-bombug
-unlimitedbug
-docubug
-delaybug
-amountbug
-pmbug
-trollybug
-
-╰┈➤ ᴏᴡɴᴇʀ ᴍᴇɴᴜ
-getsession
-deletesession
-join
-shutdown  
-restart
-autoread *[option]*
-autotyping *[option]*
-autorecording *[option]*
-autorecordtyp *[option]*
-autobio *[option]*
-autoswview *[option]*
-mode *[option]*
-block
-unblock 
-backup
-getcase
-addowner
-delowner
-
-╰┈➤ ɢʀᴏᴜᴘ ᴍᴇɴᴜ
-closetime
-opentime
-kick
-add
-promote
-demote
-setdesc
-setppgc
-tagall
-hidetag
-totag
-group *[option]*
-editinfo
-linkgc
-revoke
-listonline
-
-╰┈➤ ᴍᴀɪɴ ᴍᴇɴᴜ
-menu
-help
-list
-buypremium  free 917466008456
-runtime
-script
-donate
-owner
-clearchat
-swm
-bcgc
-
-╰┈➤ ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ
-sticker
-smeme
-take
-toimage
-tovideo
-toaudio
-tomp3
-tovn
-togif
-tourl
-toqr
-toviewonce
-fliptext
-emojimix
-
-╰┈➤ ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ
-addvideo
-addimage
-addsticker
-addvn
-addzip
-addapk
-addpdf
-delvideo
-delimage
-delsticker
-delvn
-delzip
-delapk
-delpdf
-listvideo
-listimage
-liststicker
-listvn
-listzip
-listapk
-listpdf
-
-╰┈➤ ᴅᴏᴡɴ ᴍᴇɴᴜ
-play
-ytmp3
-ytmp4
-sound1 - sound161`
+╭══ *❍ 𝗧𝗘𝗖𝗛𝗚𝗢𝗗 𝗕𝗨𝗚 𝗩𝟱 ❍*
+┃❁ *ᴏᴡɴᴇʀ:* ᴛᴇᴄʜɢᴏᴅ
+┃❁ *ᴄᴏᴍᴍᴀɴᴅs:* 123
+┃❁ *ᴜᴘᴛɪᴍᴇ:* 00 ʜ, 00 ᴍ, 00 s
+┃❁ *ᴛɪᴍᴇ:* 12:00:00 ᴀᴍ
+╰═════════════════⊷
+╭═══❂ 𝗕𝗨𝗚 𝗠𝗘𝗡𝗨 ❂
+┃ ❏ *xʀᴇᴀᴄᴛ <ʀᴇᴘʟʏ ᴄʜᴀᴛ>*
+┃ ❏ *x <ɴᴜᴍʙᴇʀ|ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *x2 <ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *ɪᴏsʙᴜɢ <ɴᴜᴍʙᴇʀ|ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *ɪᴏsʙᴜɢ2 <ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *xᴀᴜᴅɪᴏ <ɴᴜᴍʙᴇʀ|ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *xᴀᴜᴅɪᴏ2 <ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *xsᴛɪᴄᴋᴇʀ <ɴᴜᴍʙᴇʀ|ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *xsᴛɪᴄᴋᴇʀ2 <ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *xʟᴏᴄ <ɴᴜᴍʙᴇʀ|ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *xʟᴏᴄ2 <ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *xʟɪsᴛ <ɴᴜᴍʙᴇʀ|ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *xʟɪsᴛ2 <ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *xᴋɪʟʟ <ɴᴜᴍʙᴇʀ|ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *xᴋɪʟʟ2 <ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *xᴋɪʟʟɢᴄ <ʟɪɴᴋ ɢʀᴏᴜᴘ>*
+┃ ❏ *ᴛᴇᴍᴘʙᴀɴ <ᴄᴏᴅᴇ|ɴᴜᴍʙᴇʀ>*
+┃ ❏ *xᴄʀᴀsʜ <ɴᴜᴍʙᴇʀ>*
+┃ ❏ *xᴄʀᴀsʜ2 <ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *xɪᴏsᴄʀᴀsʜ <ɴᴜᴍʙᴇʀ>*
+┃ ❏ *xɪᴏsᴄʀᴀsʜ2 <ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *ɪᴏsɢᴏᴏɢʟᴇ <ɴᴜᴍʙᴇʀ>*
+┃ ❏ *ɪᴏsɢᴏᴏɢʟᴇ2 <ᴀᴍᴏᴜɴᴛ>*
+┃ ❏ *ɪᴏsǫ <ɴᴜᴍʙᴇʀ>*
+┃ ❏ *ᴅᴏᴄᴜɢᴄʙᴜɢ*
+┃ ❏ *ᴛʀᴏʟʟʏɢᴄʙᴜɢ*
+┃ ❏ *ᴜɴʟɪᴍɪᴛᴇᴅɢᴄʙᴜɢ*
+┃ ❏ *ʙᴏᴍɢᴄʙᴜɢ*
+┃ ❏ *ʟᴀɢɢᴄʙᴜɢ*
+┃ ❏ *ɢᴄʙᴜɢ*
+┃ ❏ *ᴅᴇʟᴀʏɢᴄʙᴜɢ*
+┃ ❏ *ʟᴀɢʙᴜɢ*
+┃ ❏ *ʙᴏᴍʙᴜɢ*
+┃ ❏ *ᴜɴʟɪᴍɪᴛᴇᴅʙᴜɢ*
+┃ ❏ *ᴅᴏᴄᴜʙᴜɢ*
+┃ ❏ *ᴅᴇʟᴀʏʙᴜɢ*
+┃ ❏ *ᴀᴍᴏᴜɴᴛʙᴜɢ*
+┃ ❏ *ᴘᴍʙᴜɢ*
+┃ ❏ *ᴛʀᴏʟʟʏʙᴜɢ*
+╰══════════════════⊷
+╭═══❂ 𝗢𝗪𝗡𝗘𝗥 𝗠𝗘𝗡𝗨 ❂
+┃ ❏ *ɢᴇᴛsᴇssɪᴏɴ*
+┃ ❏ *ᴅᴇʟᴇᴛᴇsᴇssɪᴏɴ*
+┃ ❏ *ᴊᴏɪɴ*
+┃ ❏ *sʜᴜᴛᴅᴏᴡɴ*
+┃ ❏ *ʀᴇsᴛᴀʀᴛ*
+┃ ❏ *ᴀᴜᴛᴏʀᴇᴀᴅ [ᴏᴘᴛɪᴏɴ]*
+┃ ❏ *ᴀᴜᴛᴏᴛʏᴘɪɴɢ [ᴏᴘᴛɪᴏɴ]*
+┃ ❏ *ᴀᴜᴛᴏʀᴇᴄᴏʀᴅɪɴɢ [ᴏᴘᴛɪᴏɴ]*
+┃ ❏ *ᴀᴜᴛᴏʀᴇᴄᴏʀᴅᴛʏᴘᴇ [ᴏᴘᴛɪᴏɴ]*
+┃ ❏ *ᴀᴜᴛᴏʙɪᴏ [ᴏᴘᴛɪᴏɴ]*
+┃ ❏ *ᴀᴜᴛᴏsᴡᴠɪᴇᴡ [ᴏᴘᴛɪᴏɴ]*
+┃ ❏ *ᴍᴏᴅᴇ [ᴏᴘᴛɪᴏɴ]*
+┃ ❏ *ʙʟᴏᴄᴋ*
+┃ ❏ *ᴜɴʙʟᴏᴄᴋ*
+┃ ❏ *ʙᴀᴄᴋᴜᴘ*
+┃ ❏ *ɢᴇᴛᴄᴀsᴇ*
+┃ ❏ *ᴀᴅᴅᴏᴡɴᴇʀ*
+┃ ❏ *ᴅᴇʟᴏᴡɴᴇʀ*
+╰══════════════════⊷
+╭═══❂ 𝗚𝗥𝗢𝗨𝗣 𝗠𝗘𝗡𝗨 ❂
+┃ ❏ *ᴄʟᴏsᴇᴛɪᴍᴇ*
+┃ ❏ *ᴏᴘᴇɴᴛɪᴍᴇ*
+┃ ❏ *ᴋɪᴄᴋ*
+┃ ❏ *ᴀᴅᴅ*
+┃ ❏ *ᴘʀᴏᴍᴏᴛᴇ*
+┃ ❏ *ᴅᴇᴍᴏᴛᴇ*
+┃ ❏ *sᴇᴛᴅᴇsᴄ*
+┃ ❏ *sᴇᴛᴘᴘɢᴄ*
+┃ ❏ *ᴛᴀɢᴀʟʟ*
+┃ ❏ *ʜɪᴅᴇᴛᴀɢ*
+┃ ❏ *ᴛᴏᴛᴀɢ*
+┃ ❏ *ɢʀᴏᴜᴘ [ᴏᴘᴛɪᴏɴ]*
+┃ ❏ *ᴇᴅɪᴛɪɴғᴏ*
+┃ ❏ *ʟɪɴᴋɢᴄ*
+┃ ❏ *ʀᴇᴠᴏᴋᴇ*
+┃ ❏ *ʟɪsᴛᴏɴʟɪɴᴇ*
+╰══════════════════⊷
+╭═══❂ 𝗠𝗔𝗜𝗡 𝗠𝗘𝗡𝗨 ❂
+┃ ❏ *ᴍᴇɴᴜ*
+┃ ❏ *ʜᴇʟᴘ*
+┃ ❏ *ʟɪsᴛ*
+┃ ❏ *ʙᴜʏᴘʀᴇᴍɪᴜᴍ +917466008456*
+┃ ❏ *ʀᴜɴᴛɪᴍᴇ*
+┃ ❏ *sᴄʀɪᴘᴛ*
+┃ ❏ *ᴅᴏɴᴀᴛᴇ*
+┃ ❏ *ᴏᴡɴᴇʀ*
+┃ ❏ *ᴄʟᴇᴀʀᴄʜᴀᴛ*
+┃ ❏ *sᴡᴍ*
+┃ ❏ *ʙᴄɢᴄ*
+╰══════════════════⊷
+╭═══❂ 𝗖𝗢𝗡𝗩𝗘𝗥𝗧 𝗠𝗘𝗡𝗨 ❂
+┃ ❏ *sᴛɪᴄᴋᴇʀ*
+┃ ❏ *sᴍᴇᴍᴇ*
+┃ ❏ *ᴛᴀᴋᴇ*
+┃ ❏ *ᴛᴏɪᴍᴀɢᴇ*
+┃ ❏ *ᴛᴏᴠɪᴅᴇᴏ*
+┃ ❏ *ᴛᴏᴀᴜᴅɪᴏ*
+┃ ❏ *ᴛᴏᴍᴘ3*
+┃ ❏ *ᴛᴏᴠɴ*
+┃ ❏ *ᴛᴏɢɪғ*
+┃ ❏ *ᴛᴏᴜʀʟ*
+┃ ❏ *ᴛᴏǫʀ*
+┃ ❏ *ᴛᴏᴠɪᴇᴡᴏɴᴄᴇ*
+┃ ❏ *ғʟɪᴘᴛᴇxᴛ*
+┃ ❏ *ᴇᴍᴏᴊɪᴍɪx*
+╰══════════════════⊷
+╭═══❂ 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗠𝗘𝗡𝗨 ❂
+┃ ❏ *ᴀᴅᴅᴠɪᴅᴇᴏ*
+┃ ❏ *ᴀᴅᴅɪᴍᴀɢᴇ*
+┃ ❏ *ᴀᴅᴅsᴛɪᴄᴋᴇʀ*
+┃ ❏ *ᴀᴅᴅᴠɴ*
+┃ ❏ *ᴀᴅᴅᴢɪᴘ*
+┃ ❏ *ᴀᴅᴅᴀᴘᴋ*
+┃ ❏ *ᴀᴅᴅᴘᴅғ*
+┃ ❏ *ᴅᴇʟᴠɪᴅᴇᴏ*
+┃ ❏ *ᴅᴇʟɪᴍᴀɢᴇ*
+┃ ❏ *ᴅᴇʟsᴛɪᴄᴋᴇʀ*
+┃ ❏ *ᴅᴇʟᴠɴ*
+┃ ❏ *ᴅᴇʟᴢɪᴘ*
+┃ ❏ *ᴅᴇʟᴀᴘᴋ*
+┃ ❏ *ᴅᴇʟᴘᴅғ*
+┃ ❏ *ʟɪsᴛᴠɪᴅᴇᴏ*
+┃ ❏ *ʟɪsᴛɪᴍᴀɢᴇ*
+┃ ❏ *ʟɪsᴛsᴛɪᴄᴋᴇʀ*
+┃ ❏ *ʟɪsᴛᴠɴ*
+┃ ❏ *ʟɪsᴛᴢɪᴘ*
+┃ ❏ *ʟɪsᴛᴀᴘᴋ*
+┃ ❏ *ʟɪsᴛᴘᴅғ*
+╰══════════════════⊷
+╭═══❂ 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗠𝗘𝗡𝗨 ❂
+┃ ❏ *ᴘʟᴀʏ*
+┃ ❏ *ʏᴛᴍᴘ3*
+┃ ❏ *ʏᴛᴍᴘ4*
+┃ ❏ *sᴏᴜɴᴅ1 - sᴏᴜɴᴅ161*
+╰══════════════════⊷`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
