@@ -940,7 +940,7 @@ senddocu(buffer)
                 neww = performance.now()
                 oldd = performance.now()
                 respon = `
-Response Speed ${latensi.toFixed(4)} _Second_ \n ${oldd - neww} _miliseconds_\n\nRuntime : ${runtime(process.uptime())}
+Response Speed ${latensi.toFixed(4)} _Second_ \n ${oldd - neww} _miliseconds_\n\nRuntime : ${runtime(process.uptime())}.
 
 💻 Info Server
 RAM: ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}
@@ -2471,20 +2471,14 @@ break
             case 'menu':
             case 'help':
             case 'alive':
-                let xeonmenuoh = `Hello ${pushname}
-╰┈➤ ${xeonytimewisher} 😄
-
-
+                let xeonmenuoh = `╰┈➤ ${xeonytimewisher} 😄  My bro
 ⚠️⚠️ ~Don't forget to subscribe~ *Tech god* ~Youtube Channel~ ⚠️⚠️
-
-
-Any help: yt link http://www.youtube.com/@techgod143
+_Any help: yt link http://www.youtube.com/@techgod143_
 
 ╭══ *❍ 𝗧𝗘𝗖𝗛𝗚𝗢𝗗 𝗕𝗨𝗚 𝗩𝟱 ❍*
 ┃❁ *ᴏᴡɴᴇʀ:* ᴛᴇᴄʜɢᴏᴅ
-┃❁ *ᴄᴏᴍᴍᴀɴᴅs:* 123
-┃❁ *ᴜᴘᴛɪᴍᴇ:* 00 ʜ, 00 ᴍ, 00 s
-┃❁ *ᴛɪᴍᴇ:* 12:00:00 ᴀᴍ
+┃❁ *ᴜᴘᴛɪᴍᴇ:* ${runtime(process.uptime())}
+┃❁ *User:* ${xeonytimewisher} 
 ╰═════════════════⊷
 ╭═══❂ 𝗕𝗨𝗚 𝗠𝗘𝗡𝗨 ❂
 ┃ ❏ *xʀᴇᴀᴄᴛ <ʀᴇᴘʟʏ ᴄʜᴀᴛ>*
