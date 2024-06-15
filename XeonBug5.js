@@ -2474,9 +2474,10 @@ break
                 let xeonmenuoh = `╭══ *❍ 𝗧𝗘𝗖𝗛_𝗚𝗢𝗗-BUG_BOT ❍*
 ┃❁ *ᴏᴡɴᴇʀ:* ᴛᴇᴄʜ ○■□● ɢᴏᴅ
 ┃❁ *ᴜᴘᴛɪᴍᴇ:* ${runtime(process.uptime())}
-┃❁ *User: ${pushname}
+┃❁ *User:* ${pushname}
 ╰┈➤ ${xeonytimewisher} 😄  My bro
-⚠️⚠️ ~Don't forget to subscribe~ *Tech god* ~Youtube Channel~ ⚠️⚠️
+⚠️⚠️ ~Don't forget to subscribe~ 
+*Tech god* ~Youtube Channel~ ⚠️⚠️
 _Any help: yt link http://www.youtube.com/@techgod143_
 ╰═════════════════⊷
 ╭═══❂ 𝗕𝗨𝗚 𝗠𝗘𝗡𝗨 ❂
