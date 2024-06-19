@@ -13,7 +13,7 @@ Very powerfull & dangerou WhatsApp Bug 🐛 bot.
 3.   - Click [SCAN](https://replit.com/@DGXeon/Xeon-PairCode?v=1) and pair the code through the "WhatsApp Linked Devices" option in your WhatsApp app.
 
 4.   - If you don't have an account of heroku [create an account now](https://youtu.be/MFA2p4-BviQ?si=PYVzRn6wnpE4_0Im)
-5.  - Now watch this tutorial [Video](https://youtu.be/AnDI4aG7UgM?si=ztCMgcWLC5_q02KK) for `Deploy Bot`
+5.  - Now watch this tutorial [Video](https://youtu.be/hjjzFlZmRqk) for `Deploy Bot`
 
 
 
