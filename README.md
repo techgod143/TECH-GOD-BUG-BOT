@@ -5,7 +5,7 @@ Very powerfull & dangerou WhatsApp Bug 🐛 bot.
 
 
 # Heroku deploy setup
-
+https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku
 
    1. - 🎭 `Star` 🌟 this repository.
 - If you don't have a GitHub account, [sign up](https://github.com/join) now. [video Tutorial](https://youtu.be/D9ep0hVF8-c?si=Rn0D1E5-VErXKlap)
