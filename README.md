@@ -41,8 +41,8 @@ Very powerfull & dangerou WhatsApp Bug 🐛 bot.
 
 # contact to owner 👇    
 <a aria-label="Join our chats" href="https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp" src="https://img.shields.io/badge/Whatsapp%20channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 <a aria-label="Join our chats" href="(https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h)" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp" src="https://img.shields.io/badge/Number%20in%20Channel%20description-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
