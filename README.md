@@ -1,4 +1,4 @@
-### WhatsApp Bug Bot By `Tech God`
+### WhatsApp Bug Bot By `𝚂𝙷𝙰𝙷𝚉𝙰𝙳𝙰`
 Very powerfull & dangerou WhatsApp Bug 🐛 bot. 
 ### Bot Features
 *⚠️ 1. Bug menu(full crash) 2. Auto status views 3. Auto read chat 4. Auto bio (about) 5. auto recording & typing 6. Always online 7. heroku full antiban 8. Auto block 9. public/private mode ⚠️*
